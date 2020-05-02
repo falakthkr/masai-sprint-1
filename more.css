@@ -1,0 +1,50 @@
+.h1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 200px;
+}
+
+.div{
+    text-align: right;
+}
+
+.button{
+    background-color:rgb(241, 210, 151);
+    border-radius: 7px;
+    border: 2px solid;
+    width:150px;
+    height: 40px;
+    color:white;
+    border-color:#FFC107;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.space{
+    background-color: rgb(241, 210, 151);
+    height: 3px;
+    width: 500px;    
+}
+
+.button1{
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid;
+    width:400px;
+    margin-left: 30px;
+    margin-top: 100px;
+    height:100px;
+    color: orange;
+    border-color:#FFC107;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+button:hover{
+    color:white;
+    background-color: rgb(241, 210, 151);
+}
+
+#button1{
+    color:white;
+    background-color: #FFC107;
+}
+
