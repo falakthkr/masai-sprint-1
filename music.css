@@ -1,0 +1,55 @@
+.h1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 200px;
+}
+
+.div{
+    text-align: right;
+}
+
+.button{
+    background-color: #FFC107;
+    border-radius: 7px;
+    border: 2px solid;
+    width:150px;
+    height: 40px;
+    color:white;
+    border-color:#FFC107;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.space{
+    background-color: orange;
+    height: 3px;
+    width: 500px;    
+}
+
+button:hover{
+    color:white;
+    background-color: rgb(241, 210, 151);
+}
+
+#button1{
+    color:white;
+    background-color: rgb(241, 210, 151);
+}
+
+div ~ a{
+    background-color: #FFC107;
+    border-radius: 7px;
+    border: 2px solid;
+    width:150px;
+    height: 40px;
+    color:white;
+    border-color:#FFC107;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: xx-large;
+}
+
+.div1{
+    width:150px;
+    height: 40px;
+    color:#FFC107;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: xx-large;
+}
